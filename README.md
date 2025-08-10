@@ -17,7 +17,7 @@
 [![](https://visitcount.itsvg.in/api?id=ark331&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Profile views](https://komarev.com/ghpvc/?username=arkhams312&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/arkhams312?label=Follow&style=social)](https://github.com/arkhams312)
+[![GitHub followers](https://img.shields.io/github/followers/ark331?label=Follow&style=social)](https://github.com/ark331)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
